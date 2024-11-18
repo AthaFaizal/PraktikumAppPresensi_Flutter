@@ -1,16 +1,10 @@
-# presensi_flutter
+# Hasil Prakrikum Flutter: Aplikasi Monitoring Kehadiran Siswa
 
-A new Flutter project.
+**Tampilan Pada Pencatatan Screen**
 
-## Getting Started
+![image](https://github.com/user-attachments/assets/38f47500-e3f2-454b-a685-38f05d4bdbae)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+**Tampilan Pada Riwayat Screen**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/26553e82-9e91-4999-810c-e7863f49228a)
